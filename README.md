@@ -16,8 +16,9 @@ Features
 ## What I learned ?
 
 - Concept of Class and Constructor
-- Using google sheet api
-- Using goole cloud services
+- Firebase Auth Interegration
+- Firestore database Interegration 
+- Figma to Flutter
 
 ## Installation
 
