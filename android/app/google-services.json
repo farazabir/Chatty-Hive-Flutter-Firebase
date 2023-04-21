@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530499862795",
+    "project_id": "chattyhive-8726c",
+    "storage_bucket": "chattyhive-8726c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530499862795:android:2774b58315063747ae220e",
+        "android_client_info": {
+          "package_name": "com.example.chattyhive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530499862795-pg6l7rvn81foovrfnbun5839m18k74qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-kYTpPot4STDlUW_SLnYZozKR2IHWYvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530499862795-pg6l7rvn81foovrfnbun5839m18k74qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
